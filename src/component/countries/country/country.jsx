@@ -1,11 +1,12 @@
+
 import React from 'react';
 
-const Countries = () => {
+const Country = () => {
     return (
         <div>
-            <h1>Hi</h1>
+            
         </div>
     );
 };
 
-export default Countries;
+export default Country;
